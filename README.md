@@ -1,2 +1,2 @@
 # DSC180A-Methodology-3
-Omar Ali 
+Omar Ali & Eshaan Roy
